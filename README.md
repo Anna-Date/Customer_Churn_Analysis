@@ -29,3 +29,6 @@ Die synthetische Datengenerierung orientiert sich an realistischen Geschäftsann
   - activity_id, customer_id, activity_month, logins, support_calls
 * **churn_events.csv** - Abwanderungsereignisse 
   - customer_id, churn_date, churn_reason
+  ---
+  ## Unternehmensdatenmodell
+  <img width="600" height="600" alt="Screenshot 2026-02-01 162406" src="https://github.com/user-attachments/assets/1f29c8de-9672-4cb3-b101-edd012e27646" />
