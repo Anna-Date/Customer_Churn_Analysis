@@ -34,3 +34,17 @@ Die synthetische Datengenerierung orientiert sich an realistischen Geschäftsann
   <img width="600" height="600" alt="Screenshot 2026-02-01 162406" src="https://github.com/user-attachments/assets/1f29c8de-9672-4cb3-b101-edd012e27646" />
 ---
 Um aussagekräftige Analysen durchführen zu können, wandeln wir unser **OLTP-Datenmodell** in ein **OLAP**-Datenmodell um. Wir nutzen dafür ein **Galaxy Schema**, das Analysen über mehrere Dimensionen und verschiedene Geschäftsprozesse hinweg erlaubt.
+
+## Galaxy Schema
+             dim_customer
+             /     |      \
+    fact_transaction  fact_customer_activity  fact_churn
+          |                  |
+     dim_product           dim_date
+          |
+     dim_contract
+          |
+     fact_payment
+          |
+     dim_payment_status
+
