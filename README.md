@@ -48,3 +48,5 @@ Um aussagekräftige Analysen durchführen zu können, wandeln wir unser **OLTP-D
           |
      dim_payment_status
 
+<img width="600" height="600" alt="Image 2  Feb  2026, 19_46_00" src="https://github.com/user-attachments/assets/dcc5947d-13b8-452d-b17f-a50f2df40c32" />
+
