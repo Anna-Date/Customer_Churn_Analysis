@@ -86,5 +86,15 @@ Für jeden Kunden wird ein **Score** berechnet:
 
 * Jedes erfüllte **Risikokriterium ergibt einen Punkt**
 * Der Gesamt-Score liegt zwischen **0 (kein Risiko)** und **4 (sehr hohes Risiko)**
-
-  
+---
+## SQL
+1. Gesamtumsatz nach Jahr & Monat
+2. Umsatz nach Region 
+3. Umsatz nach Subscription-Typ
+4. Durchschnittlicher Umsatz pro Kunde
+5. Churn-Rate pro Monat
+6. Top Churn-Gründe
+7. Avg Support Calls vs. Churn
+8. Durchschnittliche Logins pro Monat
+9. Anteil verspäteter Zahlungen (länger als 7 Tagen)
+10. Churn-Risiko Score
