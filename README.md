@@ -98,3 +98,10 @@ Für jeden Kunden wird ein **Score** berechnet:
 8. Durchschnittliche Logins pro Monat
 9. Anteil verspäteter Zahlungen (länger als 7 Tagen)
 10. Churn-Risiko Score
+---
+## Python Analyse
+1. Churn Prediction
+2. Customer Segmentation
+3. Cohort Analysis
+4. Survival Analysis
+5. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
