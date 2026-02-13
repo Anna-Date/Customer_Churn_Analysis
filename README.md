@@ -106,3 +106,10 @@ Für jeden Kunden wird ein **Score** berechnet:
    >Cohort-Metriken messen, wie sich diese Gruppe über die Zeit verhält.
 3. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
 4. Churn Prediction
+---
+## POWER BI 
+1. Monthly Churn Rate 
+2. Churn nach Region 
+3. Revenue at Risk 
+4. Churn nach Subscription Type
+5. Aktivität vor Churn
