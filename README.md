@@ -113,3 +113,6 @@ Für jeden Kunden wird ein **Score** berechnet:
 3. Revenue at Risk 
 4. Churn nach Subscription Type
 5. Aktivität vor Churn
+> **Bemerkung**: ich habe **Session Pooling** genutzt bei Supabase, um eine stabile **Datenbankverbindung** bereitzustellen.
+Dabei erhält die Anwendung eine feste PostgreSQL-Session, wodurch sessionbasierte Features wie Prepared Statements und temporäre Tabellen unterstützt werden.
+Dieses Setup ist für klassische Backend-Server geeignet und nicht für Serverless- oder Edge-Umgebungen vorgesehen.
